@@ -1,7 +1,3 @@
-# Starlink-open-innovation-suite
-Fully functional, Benchmark ready novel code, ready for dev analysis/implimentation 
-
-
 # Starlink Open Innovation Suite
 
 **A gift to humanity. Three Starlink-optimized systems released freely for public benefit.**
