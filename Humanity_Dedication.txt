@@ -1,1 +1,15 @@
+This repository is dedicated freely and openly to the engineers of Starlink and SpaceX.
+
+You may use, modify, deploy, or discard this code—no strings attached.
+
+Its sole purpose is to help bring fair, reliable, and intelligent internet access
+to underserved communities around the world. If any part of it helps make
+someone’s connection more stable, resilient, or just a little bit faster, then it
+has served its mission.
+
+There is no patent. There is no attribution required. This is a human gift to a human problem.
+
+Thank you for building the infrastructure. I offer this to strengthen it.
+
+Andrew Brown, 2025
 
