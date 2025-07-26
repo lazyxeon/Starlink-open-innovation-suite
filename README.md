@@ -82,4 +82,4 @@ If this repo helps even one rural family, remote doctor, or disconnected student
 
 > Built with hope. Released without ego. Offered for the people.
 
-— \[Your Name] (2025)
+(07-26-2025)
